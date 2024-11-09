@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">  
-  <img src="assets/Daniel Lima.png" style="margin: 10px;"/>
+  <img src="assets/Daniel Lima.png" style="margin: 100px;"/>
 </div>
 
 <div align="center">  
