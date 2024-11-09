@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![My name](assets/my_name_svg.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5aaba8&height=120&section=footer"/>
 
