@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5aaba8&height=120&section=footer"/>
