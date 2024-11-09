@@ -14,11 +14,9 @@ Hello World! I'm a student and developer who loves technology.<br>
 </p>
 <br><br><br>
 
-<h2 align="center">
+<h2>
 ⭐ About me ⭐     
 </h2>
-
-___
 
 - 🔭 I’m currently working on Robert Bosch LTDA
 - 🌱 I'm currently learning Web Programming 
