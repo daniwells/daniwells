@@ -17,8 +17,14 @@ Hello World! I'm a student and developer who loves technology.<br>
 <h2>
 About me    
 </h2>
-
 I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to projects focused on web development, always seeking to maintain great organization and clean code, with the aim of creating excellent projects that make people's lives easier.
+
+<h2>
+My knowledge
+</h2>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 
 <!--
 <div align="center">  
