@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 Hello World! I'm a student and developer who loves technology.<br>
-<span>Welcome to my Github!<span>
+**Welcome to my Github!**
 </p>
 <br><br>
 
