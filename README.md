@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <div align="center">  
   <img src="assets/Daniel Lima.png" style="margin: 100px;"/>
 </div>
 
-<br/>
+<br><br>
 
 <p align="center">
 Hello World! I'm a student and developer who loves technology
