@@ -18,7 +18,7 @@ Hello World! I'm a student and developer who loves technology.<br>
 About me    
 </h2>
 
-I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to innovative projects focused on web development.
+I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to innovative projects focused on web development, always with the aim of bringing more comfort to the end user.
 
 <!--
 <div align="center">  
