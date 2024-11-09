@@ -22,7 +22,7 @@ I'm a very dedicated and helpful fullstack developer. I really enjoy contributin
 <h2>
 My knowledge
 </h2>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 
 
