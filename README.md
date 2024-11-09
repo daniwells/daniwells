@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<br/>
-<br/>
 
 <p align="center">
 Hello World! I'm a student and developer who loves technology
