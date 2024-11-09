@@ -26,13 +26,9 @@ Here are some ideas to get you started:
 <br><br>
 
 <p align="center">
-Hello World! I'm a student and developer who loves technology.
+Hello World! I'm a student and developer who loves technology.<br>
 <span>Welcome to my Github!<span>
 </p>
-<p align="center">
-
-</p>
-
 <br><br>
 
 
