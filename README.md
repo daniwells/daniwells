@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">  
-  <img src="assets/Daniel Lima.png" style="margin: 100px;"/>
+  <img src="assets/Daniel Lima.png"/>
 </div>
 
 <br><br>
 
 <p align="center">
 Hello World! I'm a student and developer who loves technology.
+<span>Welcome to my Github!<span>
 </p>
 <p align="center">
-Welcome to my Github!
+
 </p>
 
 <br><br>
