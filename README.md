@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <h2>📓 GitHub Stats 📓<h2>
   <a href="https://github.com/daniwells"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniwells&theme=synthwave&show_icons=true&" alt="Daniwells's github stats"/></a>
   <a href="https://github.com/daniwells"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&theme=synthwave"/></a>
 </div>
