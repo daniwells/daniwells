@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/daniwells"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&theme=transparent&layout=compact&border_color=53c7c4&title_color=53c7c4&text_color=f23c53"/></a>
 </div>
 -->
+
 <img src="assets/Daniel Lima.png"/>
+
+____
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E14E60&height=120&section=footer"/>
 
