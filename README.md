@@ -23,17 +23,13 @@ Here are some ideas to get you started:
   <img src="assets/Daniel Lima.png"/>
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
 Hello World! I'm a student and developer who loves technology.<br>
 <strong>Welcome to my Github!</strong>
 </p>
 <br><br>
-
-
-
-
 
 <!--
 <div align="center">  
