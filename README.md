@@ -27,9 +27,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 Hello World! I'm a student and developer who loves technology.<br>
-<strong>Welcome to my Github!</strong>
+<strong>✨ Welcome to my Github! ✨</strong>
 </p>
 <br><br>
+
+- 🔭 I’m currently working on Robert Bosch LTDA
+- 🌱 I'm currently learning Web Programming 
+- 👯 I’m looking to collaborate on ...
+- ⚡ Fun fact: ...
 
 <!--
 <div align="center">  
