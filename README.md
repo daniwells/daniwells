@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<img src="assets/Daniel Lima.png"/>
-
-____
+<div align="center">  
+  <img src="assets/Daniel Lima.png"/>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E14E60&height=120&section=footer"/>
 
