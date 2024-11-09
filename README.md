@@ -15,13 +15,10 @@ Hello World! I'm a student and developer who loves technology.<br>
 <br><br><br>
 
 <h2>
-⭐ About me ⭐     
+About me    
 </h2>
 
-- 🔭 I’m currently working on Robert Bosch LTDA
-- 🌱 I'm currently learning Web Programming 
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to innovative projects focused on web development.
 
 <!--
 <div align="center">  
