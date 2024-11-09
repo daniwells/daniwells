@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniwells&theme=synthwave&show_icons=true)](https://github.com/daniwells/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<div align="center">
+ <h2>📓 GitHub Stats 📓<h2>
+  <a href="https://github.com/daniwells"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniwells&theme=synthwave&show_icons=true&icon_color=68ddbd&border_color=03bb85&border_radius=10&title_color=68ddbd&text_color=ffffff" alt="Daniwells's github stats"/></a>
+  <a href="https://github.com/daniwells"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&theme=synthwave&layout=compact&border_color=03bb85&title_color=68ddbd&text_color=ffffff"/></a>
+</div>
