@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </div>
 -->
 <img src="assets/Daniel Lima.png"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5aaba8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E14E60&height=120&section=footer"/>
 
