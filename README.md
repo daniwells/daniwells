@@ -30,7 +30,7 @@ I'm a very dedicated and helpful fullstack developer. I really enjoy contributin
 * Graduated in Information System from Senai.
 
 <h2>
-My Contacts
+Contact
 </h2>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniellimafreita@gmail.com)
@@ -69,7 +69,7 @@ My knowledge
 
 
 <h2>
-My stats
+Stats
 </h2>
 
 <div align="center">  
