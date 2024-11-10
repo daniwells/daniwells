@@ -30,6 +30,14 @@ I'm a very dedicated and helpful fullstack developer. I really enjoy contributin
 * Graduated in Information System from Senai.
 
 <h2>
+My Contacts
+</h2>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](daniellimafreita@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lima-4a4b4325a/)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/daniellima129)
+
+<h2>
 My knowledge
 </h2>
 
@@ -59,20 +67,12 @@ My knowledge
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<h2>
-My Contacts
-</h2>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](daniellimafreita@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lima-4a4b4325a/)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/daniellima129)
-
-<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniwells&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Lima github stats" style="margin: 10px;"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" style="margin: 10px;"/>
 </div>
--->
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E14E60&height=120&section=footer"/>
 
