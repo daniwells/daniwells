@@ -20,9 +20,7 @@ About me
 
 <img align="right" height = "200px" alt="" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 
-I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to projects focused on web development, <br>
-always seeking to maintain great organization and clean code, <br> 
-with the aim of creating excellent projects that make people's lives easier.
+I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to projects focused on web development,  always seeking to maintain great organization and clean code, with the aim of creating excellent projects that make people's lives easier.
 <br>
 
 * Working at Robert Bosch LTDA;
