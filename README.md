@@ -15,6 +15,14 @@ Hello World! I'm a student and developer who loves technology.<br>
 <br><br><br>
 
 <h2>
+Contacts
+</h2>
+
+<a>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)</a>
+<a>[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/seu-perfil)</a>
+<a>[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)</a>
+
+<h2>
 About me    
 </h2>
 
