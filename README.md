@@ -23,7 +23,7 @@ I'm a very dedicated and helpful fullstack developer. I really enjoy contributin
 My knowledge
 </h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,react,angular,django,fastapi,postgres,mysql,docker,sass,less,tailwind,bootstrap,styledcomponents,eslint,prettier,redux,jwt,heroku,vercel&perline=15" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,react,angular,django,fastapi,postgres,mysql,docker,sass,less,tailwind,bootstrap,styledcomponents,redux,heroku,vercel&perline=15" alt="My Skills">
 </a>
                               
           
