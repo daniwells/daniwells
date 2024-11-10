@@ -68,9 +68,13 @@ My knowledge
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
+<h2>
+My stats
+</h2>
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniwells&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Lima github stats" style="margin: 10px;"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" style="margin: 10px;"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniwells&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=E14E60&text_color=E14E60&bg_color=0d1117" alt="Daniel Lima github stats" style="margin: 10px;"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwells&layout=compact&hide_border=true&title_color=E14E60&text_color=E14E60&bg_color=0d1117" style="margin: 10px;"/>
 </div>
 
 
