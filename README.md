@@ -18,9 +18,11 @@ Hello World! I'm a student and developer who loves technology.<br>
 About me    
 </h2>
 I'm a very dedicated and helpful fullstack developer. I really enjoy contributing to projects focused on web development, always seeking to maintain great organization and clean code, with the aim of creating excellent projects that make people's lives easier.
-
+<br>
 * Working at Robert Bosch LTDA;
+
 * Studying Systems Analysis and Development at Univille University;
+
 * Graduated in Information System from Senai.
 
 <h2>
