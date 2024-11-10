@@ -22,14 +22,9 @@ I'm a very dedicated and helpful fullstack developer. I really enjoy contributin
 <h2>
 My knowledge
 </h2>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" /></span>
-<span><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /></span>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,docker,postgres,django,spring,react,vue,angular&perline=15" alt="My Skills">
+</a>
                               
           
                     
