@@ -17,7 +17,8 @@ Hello World! I'm a student and developer who loves technology.<br>
 <h2>
 About me    
 </h2>
-<img align="right" height = "200px" alt="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQ4a2djeHd4M3RuYmJpeHJtamFwaXF4djg5bmY5MTFoODJtZWcxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nfVrDoYuAD2fe/giphy.gif">
+<img align="right" height = "200px" alt="" src="https://tenor.com/pt-BR/view/totoro-jumping-bouncing-my-neighbour-totoro-pixels-gif-16360969">
+
 I'm a very dedicated and helpful fullstack developer. <br>
 I really enjoy contributing to projects focused on web development, <br>
 always seeking to maintain great organization and clean code, <br> 
