@@ -18,10 +18,7 @@ Hello World! I'm a student and developer who loves technology.<br>
 About me    
 </h2>
 
-<img align="right" height = "200px" alt="" src="https://br.pinterest.com/pin/42854633946642120/">
-
-
-<div class="tenor-gif-embed" data-postid="16360969" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/totoro-jumping-bouncing-my-neighbour-totoro-pixels-gif-16360969">Totoro Jumping Sticker</a>from <a href="https://tenor.com/search/totoro-stickers">Totoro Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height = "200px" alt="" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 
 
 I'm a very dedicated and helpful fullstack developer. <br>
